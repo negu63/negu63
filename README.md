@@ -1,4 +1,6 @@
-### Hi there 👋
+## negu
+### 📄 [Profile (Notion)](https://melted-payment-20f.notion.site/Never-Ever-Give-Up-697f8ac6c6954204947fdf76f65131c6)
+### ✏ [Blog (Velog)](https://velog.io/@negu63)
 
 <!--
 **negu63/negu63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
